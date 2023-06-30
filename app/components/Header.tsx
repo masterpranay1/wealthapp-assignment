@@ -17,6 +17,8 @@ export default function Header() {
           alt="header-company"
           width={800}
           height={400}
+          className='w-auto h-auto'
+          priority={true}
         />
       </header>
     </>

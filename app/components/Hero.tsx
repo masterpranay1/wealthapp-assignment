@@ -44,6 +44,7 @@ export default function Hero() {
             alt="arrow"
             width={17}
             height={34}
+            className='w-auto h-auto'
           />
           <Image
             src="/images/hero-grid.png"
