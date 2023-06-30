@@ -1,11 +1,12 @@
 import Image from 'next/image'
+import { Header, Hero, Footer } from './components'
 
 export default function Home() {
   return (
     <>
-      <section>
-        <h1>Wealthup.me</h1>
-      </section>
+      <Header />
+      {/* <Hero /> */}
+      {/* <Footer /> */}
     </>
   )
 }
