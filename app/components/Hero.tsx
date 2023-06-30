@@ -17,7 +17,7 @@ function Profile() {
         <div className='font-normal text-xl'>
           <h3 className='font-medium text-2xl'>Simrin Sirur</h3>
           <small className='leading-6 block my-4 text-xl'>Journalist <br/> The Print, Gurugram</small>
-          <p className='max-w-[45ch]'>"I was afraid to learn about investments and savings because it seemed to fly over my head, but Ankit was extremely patient and walked me through everything... I now feel more confident to handle my own money."</p>
+          <p className='max-w-[45ch]'>&quot;I was afraid to learn about investments and savings because it seemed to fly over my head, but Ankit was extremely patient and walked me through everything... I now feel more confident to handle my own money.&quot;</p>
         </div>
       </div>
   )
